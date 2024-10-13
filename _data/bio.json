@@ -14,29 +14,46 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "AI for Science" },
+    { "name": "Physics-Informed Machine Learning" },
+    { "name": "Self-Supervised Learning" },
+    { "name": "Applied Machine Learning" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": [ "Python", "C++", "bash", "LaTeX", "SQL", "Scala", "JavaScript", "HTML/CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Data Science Tools",
+      "keywords": [ "PyTorch", "TensorFlow", "Git/GitHub", "HPC", "JAX", "Pandas", "Matplotlib", "SLURM", "MATLAB", "Mathematica" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "Ph.D.",
+      "startDate": "2024-08-01",
+      "endDate": "2027-05-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.Sc.",
+      "startDate": "2022-08-01",
+      "endDate": "2024-08-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Colorado Boulder, Boulder, CO",
+      "area": "Astrophysics, Minor in Music (Harp Performance)",
+      "studyType": "B.A.",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05-01",
       "courses": [
       ]
     }
