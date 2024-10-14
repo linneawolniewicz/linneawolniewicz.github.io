@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/anomaly_detection/supernova.jpg
+image: img/anomaly_detection/anomaly_detection.png
 title: "Anomaly Detection for Stellar Light Curves"
-date: 2024
+date: 2024-10
 published: true
 labels:
   - Timeseries

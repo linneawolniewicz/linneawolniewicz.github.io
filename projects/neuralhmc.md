@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/neuralhmc/gcr.png
 title: "Neural Surrogate HMC"
-date: 2024
+date: 2024-08
 published: true
 labels:
   - Hamiltonian Monte Carlo
