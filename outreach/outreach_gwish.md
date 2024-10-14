@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: outreach
+type: outreach
 image: img/outreach/outreach.png
 title: "GWISH Outreach"
 date: 2024
