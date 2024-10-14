@@ -7,8 +7,8 @@
     </div>
 
     <div class="vstack gap-3">
-      {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
-      {% for page in project_pages %}
+      {% assign outreach_pages = site.pages | where: "type", "outreach" | sort: "date" | reverse %}
+      {% for page in outreach_pages %}
         {% unless page.draft %}
           {% include outreach/outreach-card.html page=page %}
         {% endunless %}
@@ -19,7 +19,7 @@
     </div>
 
     {% assign not_draft = 0 %}
-      {% for page in project_pages %}
+      {% for page in outreach_pages %}
       {% unless page.draft %}
         {% assign not_draft = not_draft | plus: 1 %}
       {% endunless %}
