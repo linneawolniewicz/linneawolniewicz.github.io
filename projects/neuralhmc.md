@@ -14,8 +14,6 @@ Neural Surrogate HMC: Accelerated Hamiltonian Monte Carlo with a Neural Network 
 
 Masters Project, presented as a scheduled talk at SPAICE 2024 and presented as a poster the 37th NeurIPS Machine Learning for the Physical Sciences Workshop.
 
-<img class="img-fluid" src="../img/neuralhmc/gcr.png">
-
 Arxiv paper: <a href="https://arxiv.org/abs/2407.20432"></a>
 
 Source: <a href="https://arxiv.org/abs/2407.20432"></a>

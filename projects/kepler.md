@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kepler/kepler.jpg
+image: img/kepler/kepler.png
 title: "The Stars Kepler Missed"
 date: 2020
 published: true
@@ -11,8 +11,6 @@ summary: "The Stars Kepler Missed: Investigating the Kepler Target Selection Fun
 ---
 
 First author paper published after an REU in the Summer of 2020 at the Institute for Astronomy at UH Mānoa. I also presented this work as a scheduled talk at the AAS 237th conference.
-
-<img class="img-fluid" src="../img/kepler/kepler.jpg">
 
 Arxiv paper: <a href="https://arxiv.org/abs/2407.20432"></a>
 
