@@ -6,12 +6,11 @@ title: "The Stars Kepler Missed"
 date: 2020
 published: true
 labels:
-  - Pandas
 summary: "The Stars Kepler Missed: Investigating the Kepler Target Selection Function Using Gaia DR2"
 ---
 
-First author paper published after an REU in the Summer of 2020 at the Institute for Astronomy at UH Mānoa. I also presented this work as a scheduled talk at the AAS 237th conference.
+I conducted this work as a Research Experience for Undergraduate (REU) student at the Institute for Astronomy at UH Mānoa in 2020. I presented this work as a scheduled talk at the AAS 237th conference, and published it as my first First-author paper in the Spring of 2021.
 
-Arxiv paper: <a href="https://arxiv.org/abs/2407.20432"></a>
+In this project, I analyzed the entire Kepler Space Telescope dataset using Python statistical tools such as Pandas to evaluate the biases in its selection function.
 
-Source: <a href="https://iopscience.iop.org/article/10.3847/1538-3881/abee1d"></a>
+[Read the full paper on iopscience](https://iopscience.iop.org/article/10.3847/1538-3881/abee1d)

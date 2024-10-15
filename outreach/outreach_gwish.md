@@ -2,7 +2,7 @@
 layout: outreach
 type: outreach
 image: img/outreach/outreach.png
-title: "GWISH Outreach"
+title: "Outreach with Graduate Women in Science Hawaiʻi"
 date: 2024
 published: true
 labels:
@@ -10,6 +10,8 @@ labels:
 summary: "Outreach with Graduate Women in Science Hawaiʻi"
 ---
 
-I am the Vice President and Outreach Coordinator for Graduate Women in Science Hawaiʻi, an organization that focuses on outreach to increase the participation of women in STEM. I lead workshops at high schools around Hawaiʻi with only female graduate student volunteers, to encourage young women to participate in STEM and connect them with mentors. This work is funded by a Catalyst for Science Advancement award (award number: 223C) under NASA's ICE-Five-0 grant.
+I am the Vice President and Outreach Coordinator for Graduate Women in Science Hawaiʻi, an organization that focuses on empowering graduate and faculty women in science, as well as increasing the increase the participation of women in STEM. 
 
-[Learn more about outreach with GWISH](http://www.gwishawaii.org/outreach.html)
+As outreach coordinator, I lead workshops at high schools around Hawaiʻi with my female graduate students that involve detecting exoplanets in the data from NASA's Kepler Space Telescope with Python. The goal of this outreach is to encourage young women to participate in STEM and connect them with female mentors. This work is funded by a Catalyst for Science Advancement award (award number: 223C) under NASA's ICE-Five-0 grant, which I applied for and received both in the Spring and Fall of 2024.
+
+[Learn more about my outreach with GWISH](http://www.gwishawaii.org/outreach.html)

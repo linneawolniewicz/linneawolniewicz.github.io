@@ -6,12 +6,11 @@ title: "Antarctic Ice Shelf Event Detection"
 date: 2021
 published: true
 labels:
-  - Signal Detection
 summary: "Automatic Event Detection in Antarctic Ice Shelves"
 ---
 
-This work resulted from my REU in 2021 at MIT's Haystack Observatory. 
+I conducted this work as an Research Experience for Undergraduate (REU) student at MIT's Haystack Observatory in 2021.
 
-<img class="img-fluid" src="../img/ice_shelves/ice_shelves.png">
+In this project, I created a data pipeline to prepare Antarctic seismic data for machine learning. I applied a Gaussian mixture model and convolutional neural network to automatically detect ocean wave events in Antarctica’s Ross Ice Shelf.
 
-Source: <a href="https://linneawolniewicz.github.io/img/ice_shelves/ice_shelves.pdf"></a>
+[Read the project writeup here](https://linneawolniewicz.github.io/resources/event_detection_in_ice_shelves.pdf)

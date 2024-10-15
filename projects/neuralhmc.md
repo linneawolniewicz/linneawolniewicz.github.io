@@ -3,17 +3,15 @@ layout: project
 type: project
 image: img/neuralhmc/gcr.png
 title: "Neural Surrogate HMC"
-date: 2024-08
+date: 2024
 published: true
 labels:
-  - Hamiltonian Monte Carlo
-  - Markov Chain Monte Carlo
 summary: "Accelerate Hamiltonian Monte Carlo with a neural network for galactic cosmic ray detection"
 ---
-Neural Surrogate HMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate Likelihood
 
-Masters Project, presented as a scheduled talk at SPAICE 2024 and presented as a poster the 37th NeurIPS Machine Learning for the Physical Sciences Workshop.
+I conducted this work as my Masters project in 2024, and presented it as a scheduled talk at the SPAICE Conference 2024 and a poster at the 37th NeurIPS Machine Learning for the Physical Sciences Workshop.
 
-Arxiv paper: <a href="https://arxiv.org/abs/2407.20432"></a>
+In this work, I employed a neural network as a surrogate likelihood function for Hamiltonian Monte Carlo to allow us to use the method to estimate posterior density functions over the parameters describing the transport of galactic cosmic rays through our solar system.
 
-Source: <a href="https://arxiv.org/abs/2407.20432"></a>
+[Read the updated paper accepted to SPAICE on arXiv](https://arxiv.org/abs/2407.20432)
+[Read the original NeurIPS paper on ML4PhysicalSciences workshop page](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_74.pdf)
