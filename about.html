@@ -4,39 +4,56 @@ layout: home_no_footer
 ---
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin-top: 2%;">
-<div style="flex: 1; min-width: 30%; margin-right: 1%;">
-    <figure>
-        <img src="img/about/profile_photo.jpg" alt="Profile photo" style="max-width: 100%; border-radius: 1%;">
-    </figure>
+    <!-- Text Section -->
+    <div style="flex: 1; min-width: 50%; margin-right: 1%;">
+        <h5>Hello!</h5>
+        <p style="text-align: justify;">
+            My name is Linnea Wolniewicz and I am a Computer Science Ph.D. Student at the University of Hawaiʻi (UH) at Mānoa researching how we can use scientific domain knowledge to inform our machine learning models.
+        </p>
+        <p style="text-align: justify;">
+            I am a part of Dr. Peter Sadowski's machine learning lab in the Information and Computer Science department at UH Mānoa.
+            My research is in part funded by the National Science Foundation Graduate Fellowship (Grant No. 2236415). 
+            I received my M.Sc. from the UH Mānoa in Computer Science in August 2024 and my B.A. from the University of Colorado Boulder in Astrophysics in May 2022.
+        </p>
+        <p style="text-align: justify;"> 
+            I am interested in using physics-informed machine learning to solve scientific problems, specifically in the context of astronomy, or more broadly AI for science.
+        </p>
+        <p style="text-align: justify;">
+            I am passionate about outreach, and serve as the Vice President and Outreach Coordinator of Graduate Women in Science Hawaiʻi. I organize exoplanet discovery workshops at High Schools around the state of Hawaiʻi to encourage young women to pursue careers in STEM.
+        </p>
+        <p style="text-align: justify;">
+            In my free time I can be found climbing, hiking, or surfing the waves of Oʻahu. 
+            I have also studied the harp since I was eight years old and enjoy playing with orchestras when I have the chance.
+        </p>
+    </div>
+
+    <!-- Image Section -->
+    <div style="flex: 1; min-width: 40%; margin-right: 1%;">
+        <figure style="margin-bottom: 20px;">
+            <img src="img/about/profile_photo.jpg" alt="Profile photo" style="max-width: 100%; height: auto; border-radius: 5px;">
+        </figure>
+        <figure>
+            <img src="img/about/lab_photo.png" alt="Lab photo" style="max-width: 100%; height: auto; border-radius: 5px;">
+            <figcaption style="text-align: center;">
+                <p>
+                    <a href="https://peterjsadowski.github.io/group/">Sadowski Machine Learning Lab</a>
+                </p>
+            </figcaption>
+        </figure>
+    </div>
 </div>
-<div style="flex: 1; min-width: 40%; margin-right: 1%;">
-    <h5>Hello!</h5>
-    <p style="text-align: justify;">
-        My name is Linnea Wolniewicz and I am a Computer Science Ph.D. Student at the University of Hawaiʻi (UH) at Mānoa researching how we can use scientific domain knowledge to inform our machine learning models.
-    </p>
-    <p style="text-align: justify;">
-        I am a part of Dr. Peter Sadowski's machine learning lab in the Information and Computer Science department at UH Mānoa.
-        My research is in part funded by the National Science Foundation Graduate Fellowship (Grant No. 2236415). 
-        I received my M.Sc. from the UH Mānoa in Computer Science in August 2024 and my B.A. from the University of Colorado Boulder in Astrophysics in May 2022.
-    </p>
-    <p style="text-align: justify;"> 
-        I am interested in using physics-informed machine learning to solve scientific problems, specifically in the context of astronomy, or more broadly AI for science.
-    </p>
-    <p style="text-align: justify;">
-        I am passionate about outreach, and serve as the Vice President and Outreach Coordinator of Graduate Women in Science Hawaiʻi. I organize exoplanet discovery workshops at High Schools around the state of Hawaiʻi to encourage young women to pursue careers in STEM.
-    </p>
-    <p style="text-align: justify;">
-        In my free time I can be found climbing, hiking, or surfing the waves of Oʻahu. 
-        I have also studied the harp since I was eight years old and enjoy playing with orchestras when I have the chance.
-    </p>
-</div>
-<div style="flex: 1; min-width: 30%; margin-right: 1%;">
-    <figure>
-        <img src="img/about/lab_photo.png" alt="Lab photo" style="max-width: 100%; border-radius: 1%;">
-        <figcaption style="text-align: center;">
-            <p>
-                <a href="https://peterjsadowski.github.io/group/">Sadowski Machine Learning Lab</a>
-            </p>
-        </figcaption>
-    </figure>
-</div>
+
+<!-- Add media queries for smaller screens -->
+<style>
+    @media screen and (max-width: 768px) {
+        div[style*="display: flex"] {
+            flex-direction: column;
+        }
+        div[style*="min-width: 50%"] {
+            min-width: 100%;
+        }
+        div[style*="min-width: 40%"] {
+            min-width: 100%;
+        }
+    }
+</style>
