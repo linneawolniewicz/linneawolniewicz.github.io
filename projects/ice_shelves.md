@@ -6,7 +6,7 @@ title: "Antarctic Ice Shelf Event Detection"
 date: 2021
 published: true
 labels:
-summary: "Automatic Event Detection in Antarctic Ice Shelves"
+summary: "Automatically detecting events in Antarctic ice shelves"
 ---
 
 I conducted this work as an Research Experience for Undergraduate (REU) student at MIT's Haystack Observatory in 2021.

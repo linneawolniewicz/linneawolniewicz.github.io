@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/anomaly_detection/anomaly_detection.png
-title: "Anomaly Detection for Stellar Light Curves"
+title: "Anomaly Detection in Stellar Light Curves"
 date: 2024
 published: true
 labels:

@@ -2,11 +2,11 @@
 layout: project
 type: project
 image: img/search/search.png
-title: "SEARCH"
+title: "SEARCH: SEgmentation of polAR Coronal Holes"
 date: 2022
 published: true
 labels:
-summary: "SEARCH: SEgmentation of polAR Coronal Holes"
+summary: "Segmenting coronal holes and active regions in our Sun"
 ---
 
 I conducted this work as an undergraduate research assistant at the Laboratory for Atmospheric and Space Physics (LASP) during my undergraduate at the University of Colorado Boulder. We presented this work as a poster presentation at the NeurIPS 3rd Machine Learning for the Physical Sciences workshop in 2020, as well as at the Machine Learning in Heliophysics Conference hosted in March of 2022.

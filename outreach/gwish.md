@@ -6,7 +6,7 @@ title: "Outreach with Graduate Women in Science Hawaiʻi"
 date: 2024
 published: true
 labels:
-summary: "Outreach with Graduate Women in Science Hawaiʻi"
+summary: "Conducting outreach with Graduate Women in Science Hawaiʻi"
 ---
 
 I am the Vice President and Outreach Coordinator for Graduate Women in Science Hawaiʻi, an organization that focuses on empowering graduate and faculty women in science, as well as increasing the increase the participation of women in STEM. 

@@ -6,7 +6,7 @@ title: "Graduate Student Representative"
 date: 2024
 published: true
 labels:
-summary: "ICS Graduate Student Representative"
+summary: "Organizing events and funding for ICS graduate students"
 ---
 
 I organize for university funding to organize weekly Coffee Hours for graduate students and faculty to build community within the Information and Computer Science (ICS) department at UH Mānoa.

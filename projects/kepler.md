@@ -6,7 +6,7 @@ title: "The Stars Kepler Missed"
 date: 2020
 published: true
 labels:
-summary: "The Stars Kepler Missed: Investigating the Kepler Target Selection Function Using Gaia DR2"
+summary: "Investigating the Kepler target selection function using Gaia DR2"
 ---
 
 I conducted this work as a Research Experience for Undergraduate (REU) student at the Institute for Astronomy at UH Mānoa in 2020. I presented this work as a scheduled talk at the AAS 237th conference, and published it as my first First-author paper in the Spring of 2021.

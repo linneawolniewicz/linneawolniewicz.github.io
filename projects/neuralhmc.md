@@ -6,7 +6,7 @@ title: "Neural Surrogate HMC"
 date: 2024
 published: true
 labels:
-summary: "Accelerate Hamiltonian Monte Carlo with a neural network for galactic cosmic ray detection"
+summary: "Accelerating Hamiltonian onte Carlo with a neural network for galactic cosmic ray detection"
 ---
 
 I conducted this work as my Masters project in 2024, and presented it as a scheduled talk at the SPAICE Conference 2024 and a poster at the 37th NeurIPS Machine Learning for the Physical Sciences Workshop.
