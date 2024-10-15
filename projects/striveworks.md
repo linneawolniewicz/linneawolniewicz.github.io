@@ -9,7 +9,7 @@ labels:
 summary: "Industry internship exploring text classification with LLMs"
 ---
 
-This project comes from my internship with Striveworks in 2023, in which myself and my fellow data science interns explored applications of LLMs such as GPT-4 and Llama-2 to natural language tasks.
+This project comes from my internship with Striveworks in 2023, in which myself and my fellow data science interns explored applications of LLMs (GPT-4 and Llama-2) to natural language tasks. We compared performance on baseline datasets such as the IMDB sentiment analysis across BERT, Llama-2 with LoRA finetuning vs. transfer learning, and in-context learning with GPT-3.
 
 [Read our first blog post here](https://www.striveworks.com/blog/unsupervised-text-classification-how-to-use-llms-to-categorize-natural-language-data?utm_campaign=2024%20Q1&utm_content=281777154&utm_medium=social&utm_source=linkedin&hss_channel=lcp-21524007)
 

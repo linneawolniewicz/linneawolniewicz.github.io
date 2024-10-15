@@ -14,4 +14,5 @@ I conducted this work as my Masters project in 2024, and presented it as a sched
 In this work, I employed a neural network as a surrogate likelihood function for Hamiltonian Monte Carlo to allow us to use the method to estimate posterior density functions over the parameters describing the transport of galactic cosmic rays through our solar system.
 
 [Read the updated paper accepted to SPAICE on arXiv](https://arxiv.org/abs/2407.20432)
+
 [Read the original NeurIPS paper on ML4PhysicalSciences workshop page](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_74.pdf)
