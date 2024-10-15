@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "AI for Science" },
-    { "name": "Physics-Informed Machine Learning" }
+    // { "name": "AI for Science" },
+    // { "name": "Physics-Informed Machine Learning" }
   ],
   "skills": [
     {
