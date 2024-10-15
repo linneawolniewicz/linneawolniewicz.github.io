@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "github", "username": "linneawolniewicz", "url": "http://github.com/linneawolniewicz" },
       { "network": "linkedin", "username": "linnea-wolniewicz", "url": "http://linkedin.com/in/linnea-wolniewicz" },
+      { "network": "scholar", "username": "linnea-wolniewicz", "url": "https://scholar.google.com/citations?hl=en&user=CUUTIVcAAAAJ&view_op=list_works&gmla=ALUCkoVkm-gLQOyc5XW_8qTCStbqa-tcgeC3ZGd_xLPf0xXMIUVBMfEGYKf1gdBRd2SKBwGjdSJ7wc48rVyY9tSX" }
     ]
   },
   "interests": [
