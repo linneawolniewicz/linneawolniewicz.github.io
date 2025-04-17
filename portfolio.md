@@ -37,7 +37,7 @@ Likelihood” [Oral presentation]. AI in and for Space (SPAICE) Proceedings, 202
 
 - Glaser, Y., Stopa, J. E., Wolniewicz, L. M., Foster, R., Vandemark, D., Mouche, A., Chapron, B., Sadowski, P., 2024. “WV-Net: A foundation model
 for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images” [Oral presentation]. American Geophysical Union, 2023.
-- - Collaborative work with my labmate, Yannik Glaser. I trained models for the supervised regression tasks, which included training regression heads on top of frozen embeddings and fine-tuning the entire model.
+- - Collaborative work with my labmate, Yannik Glaser. I trained the models for the supervised regression tasks, which included training regression heads on top of frozen embeddings and fine-tuning the entire model.
 
 - Wolniewicz, L. M., Sadowski, P., Corti, C., 2023. “NeuralHMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate Likeli-
 hood”[Poster presentation]. Machine Learning for the Physical Sciences. Thirty-seventh Conference on Neural Information Processing Systems.
@@ -45,12 +45,12 @@ hood”[Poster presentation]. Machine Learning for the Physical Sciences. Thirty
 
 - Wolniewicz, L. M., Berger, T., Huber, D., 2021. “The Stars Kepler Missed: Investigating the Kepler Target Selection Function Using Gaia DR2” The
 Astronomical Journal, Volume 161, Number 5. 
-- - First author paper published during my Bachelors.
+- - First author paper published during my Bachelors and presented as an oral presentation at the American Astronomical Society's winter meeting in 2021. This work was conducted during my REU at the Institute for Astronomy at UH Mānoa.
 
 - Tiwari, A. J., Hu, A., Tremblay, B., Smith, B., Wolniewicz, L. M., Penn, M., Kirk, M., Guidoni, S., Samanta, T., 2020. “SEARCH: SEgmentation of
 polAR Coronal Holes”[Poster presentation]. Machine Learning for the Physical Sciences. Thirty-fourth Conference on Neural Information Processing
 Systems.
-- - Collaborative work conducted during my Bachelors. I conducted analysis with K-Means and worked on training the CNN at later tages of the project.
+- - Collaborative work conducted during my Bachelors. I conducted the K-Means analysis and worked on training the CNN at later stages of the project.
 
 #### Conference presentations
 For a full list of my presentations at relevant conferences, please refer to my [CV](https://linneawolniewicz.github.io/resources/linnea_wolniewicz_cv.pdf). 
