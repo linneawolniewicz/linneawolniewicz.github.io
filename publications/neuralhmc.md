@@ -4,7 +4,7 @@ type: publication
 title: "NeuralHMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate Likelihood"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-15
-published: false
+published: true
 labels:
 ---
 

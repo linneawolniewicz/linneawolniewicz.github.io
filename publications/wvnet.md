@@ -1,19 +1,19 @@
 ---
 layout: publication
 type: publication
-title: "WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images"
+title: "WV-Net: A Foundation Model for SAR Ocean Satellite Imagery"
 # All dates must be YYYY-MM-DD format!
-date: 2024-06-24
+date: 2025-10-10
 published: true
 labels:
 ---
 
 ## Abstract
 
-The European Space Agency's Copernicus Sentinel-1 (S-1) mission is a constellation of C-band synthetic aperture radar (SAR) satellites that provide unprecedented monitoring of the world's oceans. S-1's wave mode (WV) captures 20x20 km image patches at 5 m pixel resolution and is unaffected by cloud cover or time-of-day. The mission's open data policy has made SAR data easily accessible for a range of applications, but the need for manual image annotations is a bottleneck that hinders the use of machine learning methods. This study uses nearly 10 million WV-mode images and contrastive self-supervised learning to train a semantic embedding model called WV-Net. In multiple downstream tasks, WV-Net outperforms a comparable model that was pre-trained on natural images (ImageNet) with supervised learning. Experiments show improvements for estimating wave height (0.50 vs 0.60 RMSE using linear probing), estimating near-surface air temperature (0.90 vs 0.97 RMSE), and performing multilabel-classification of geophysical and atmospheric phenomena (0.96 vs 0.95 micro-averaged AUROC). WV-Net embeddings are also superior in an unsupervised image-retrieval task and scale better in data-sparse settings. Together, these results demonstrate that WV-Net embeddings can support geophysical research by providing a convenient foundation model for a variety of data analysis and exploration tasks.
+The European Space Agency’s Sentinel-1 (S-1) satellite mission has captured more than 10 million images of the ocean surface using C-band synthetic aperture radar (SAR WV mode). While machine learning is a promising approach for detecting and quantifying various geophysical signatures in these images, scientists are limited by the cost of manual data annotation for any particular task. We propose to use contrastive self-supervised learning on the full archive of unannotated WV-mode images to train a semantic embedding model named WV-Net. In experiments, we show that WV-Net embeddings outperform those from models that were pretrained with natural images (ImageNet) on four downstream tasks: multilabel classification [0.96 average area under the receiver operating characteristic (AUROC) vs 0.95], wave height regression [0.50 root-mean-square error (RMSE) vs 0.60], near-surface air temperature regression (0.90 RMSE vs 0.97), and unsupervised image retrieval [0.41 class-averaged mean average precision (mAP) vs 0.37]. WV-Net embeddings also scale better in data-sparse settings, and fine-tuned WV-Net models are more robust to hyperparameter choices. The WV-Net foundation model is publicly available and can be adapted to a variety of data analysis and exploration tasks in geophysical research.
 
 ### Authors
 
 Yannik Glaser, Justin E. Stopa, Linnea M. Wolniewicz, Ralph Foster, Doug Vandemark, Alexis Mouche, Bertrand Chapron, Peter Sadowski
 
-[Read the full paper on arXiv](https://arxiv.org/abs/2406.18765)
+[Read the full paper at the AMS Journal](https://journals.ametsoc.org/view/journals/aies/4/4/AIES-D-25-0003.1.xml?tab_body=fulltext-display)
