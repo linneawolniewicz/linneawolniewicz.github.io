@@ -6,7 +6,7 @@ title: "Ionosphere Digital Twin"
 date: 2025
 published: true
 labels:
-summary: "A suite of machine learning models and a novel dataset for forecasting the state of the ionosphere."
+summary: "A suite of machine learning models and a novel dataset for forecasting the state of the ionosphere"
 ---
 
 As a part of an internship with the Frontier Development Labs HelioLab during the summer of 2025, my team and I developed a novel dataset combining heterogeneous solar and geomagnetic driver data to model the ionosphere, as well as a suite of machine learning models to forecast the state of the ionosphere called IonCast and Ionopy. The ionosphere is a layer of Earth's atmosphere that is ionized by solar and cosmic radiation, and it plays a crucial role in radio communication, GPS navigation, and space weather phenomena.
