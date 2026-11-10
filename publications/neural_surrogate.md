@@ -3,7 +3,7 @@ layout: publication
 type: publication
 title: "Neural Surrogate HMC: On Using Neural Likelihoods for Hamiltonian Monte Carlo in Simulation-Based Inference"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-01
+date: 2026-09-12
 published: true
 labels:
 ---
@@ -15,6 +15,10 @@ Bayesian inference methods such as Markov Chain Monte Carlo (MCMC) typically req
 ### Authors
 Linnea M Wolniewicz, Peter Sadowski, Claudio Corti
 
-[Read the full paper on arXiv](https://arxiv.org/abs/2407.20432v2)
+Published September 12, 2026 in *Journal of Geophysical Research: Machine Learning and Computation*, **3**(5), e2025JH001164.
+
+[Read the published paper](https://doi.org/10.1029/2025JH001164)
+
+[Read the preprint on arXiv](https://arxiv.org/abs/2407.20432v2)
 
 

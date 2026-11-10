@@ -9,11 +9,11 @@ My portfolio items are contained on my personal website and below. Please scroll
 
 ## Statement of Purpose
 
-I am a 3rd year Ph.D. student with a background in Astrophysics and a focus on machine learning (ML) for scientific discovery. I've been interested in machine learning since I took Andrew Ng's Coursera course with my siblings the summer before college, but did not begin doing research in ML until my Junior year of my undergrad. 
+I am a Computer Science Ph.D. Candidate (since June 2026) with a background in Astrophysics and a focus on machine learning (ML) for scientific discovery. I've been interested in machine learning since I took Andrew Ng's Coursera course with my siblings the summer before college, but did not begin doing research in ML until my Junior year of my undergrad.
 
-My first exposure to research was instead via an REU (Research Experience for Undergraduates) program hosted by the Institute for Astronomy at UH Mānoa (UHM) between the summer of my 2nd and 3rd year of undergrad. During this REU I did work that resulted in a first-author publication in the Astronomical Journal and a presentation at one of the largest Astronomy conferences: The American Astronomical Society's winter meeting in 2021. After this work, I got involved in a project applying k-means and an unsupervised convolutional neural network (CNN) to segment coronal holes in extreme ultra-violet images of the Sun, which we presented at the NeurIPS Machine Learning for the Physical Sciences (ML4PS) workshop in 2020. This project piqued my interest in ML, and the following summer before my 4th year I participated in a second REU hosted by MIT's Haystack Observatory, preparing a signal processing pipeline for seismic data from the Ross Ice Shelf in Antarctica to automatically detect ocean wave events. 
+My first exposure to research was instead via an REU (Research Experience for Undergraduates) program hosted by the Institute for Astronomy at UH Mānoa (UHM) between the summer of my 2nd and 3rd year of undergrad. During this REU I did work that resulted in a first-author publication in the Astronomical Journal and a presentation at one of the largest Astronomy conferences: The American Astronomical Society's winter meeting in 2021. After this work, I got involved in a project applying k-means and an unsupervised convolutional neural network (CNN) to segment coronal holes in extreme ultra-violet images of the Sun, which we presented at the NeurIPS Machine Learning for the Physical Sciences (ML4PS) workshop in 2020. This project piqued my interest in ML, and the following summer before my 4th year I participated in a second REU hosted by MIT's Haystack Observatory, preparing a signal processing pipeline for seismic data from the Ross Ice Shelf in Antarctica to automatically detect ocean wave events.
 
-I came to UH to work with Dr. Peter Sadowski on ML for science, and since then have been involved in many projects, with a focus on astronomical applications and ML models that incorporate scientific domain knowledge as an inductive bias. My physics-informed projects have included exploratory work with Physics-informed neural networks, Evolutionary-informed neural networks, and Fourier Neural Operators. My Masters project used a neural network as a surrogate likelihood function to sample from the posterior distribution over parameters that describe the transport of Galactic Cosmic Rays in our heliosphere given flux observations with Hamiltonian Monte Carlo, a previously intractable problem. I have since presented this work at the ML4PS workshop at NeurIPS 2023, SUDS 2024, and SPAICE conference 2024, and am currently preparing it for publication in the Journal of Geophysical Research. I have also been a collaborator on two of my labmate Nick Glaser's projects, by fine-tuning models for regression tasks in his WV-Net paper (presented at AGU 2023) and training 3D CNNs as a part of an ongoing solar inversion project.
+I came to UH to work with Dr. Peter Sadowski on ML for science, and since then have been involved in many projects, with a focus on astronomical applications and ML models that incorporate scientific domain knowledge as an inductive bias. My physics-informed projects have included exploratory work with Physics-informed neural networks, Evolutionary-informed neural networks, and Fourier Neural Operators. My Masters project used a neural network as a surrogate likelihood function to sample from the posterior distribution over parameters that describe the transport of Galactic Cosmic Rays in our heliosphere given flux observations with Hamiltonian Monte Carlo, a previously intractable problem. I have since presented this work at the ML4PS workshop at NeurIPS 2023, SUDS 2024, and SPAICE conference 2024, and published the updated work in the Journal of Geophysical Research: Machine Learning and Computation in September 2026. I have also been a collaborator on two of my labmate Nick Glaser's projects, by fine-tuning models for regression tasks in his WV-Net paper (presented at AGU 2023) and training 3D CNNs as a part of an ongoing solar inversion project.
 
 During my Masters, I also participated in a summer internship at Striveworks, a startup based in Austin, Texas. As a data science research and development intern, I researched traditional NLP models and LLMs performance (through fine-tuning and prompt engineering) on text classification tasks. This provided me with an opportunity to conduct ML research in an industrial setting, where model deployment and high-speed development cycles are prioritized.
 
@@ -29,7 +29,10 @@ My M.Sc. was awarded by UH Mānoa in August 2024. It can be confirmed by navigat
 ## Evidence of Scholarly Ability
 ### Publication(s)  in  reviewed  journals  or  conferences  that  are  relevant  to  the student’s professional interests
 #### Publications
+
 My publications are listed on my [publications page](https://linneawolniewicz.github.io/publications/). My contributions to those, and a few other relevant projects that are in preparation, are detailed below.
+
+- Wolniewicz, L. M., Sadowski, P., Corti, C., 2026. “Neural Surrogate HMC: On Using Neural Likelihoods for Hamiltonian Monte Carlo in Simulation-Based Inference.” *Journal of Geophysical Research: Machine Learning and Computation*, 3(5), e2025JH001164. [Published paper](https://doi.org/10.1029/2025JH001164).
 
 - Wolniewicz, L. M., Sadowski, P., Corti, C., 2024. “Neural Surrogate HMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate
 Likelihood” [Oral presentation]. AI in and for Space (SPAICE) Proceedings, 2024.
@@ -44,7 +47,7 @@ hood”[Poster presentation]. Machine Learning for the Physical Sciences. Thirty
 - - First author work presented as a poster presentation at ML4PS at NeurIPS. This work is an earlier version of my Masters project, which was presented at SPAICE (above).
 
 - Wolniewicz, L. M., Berger, T., Huber, D., 2021. “The Stars Kepler Missed: Investigating the Kepler Target Selection Function Using Gaia DR2” The
-Astronomical Journal, Volume 161, Number 5. 
+Astronomical Journal, Volume 161, Number 5.
 - - First author paper published during my Bachelors and presented as an oral presentation at the American Astronomical Society's winter meeting in 2021. This work was conducted during my REU at the Institute for Astronomy at UH Mānoa.
 
 - Tiwari, A. J., Hu, A., Tremblay, B., Smith, B., Wolniewicz, L. M., Penn, M., Kirk, M., Guidoni, S., Samanta, T., 2020. “SEARCH: SEgmentation of
@@ -53,8 +56,8 @@ Systems.
 - - Collaborative work conducted during my Bachelors. I conducted the K-Means analysis and worked on training the CNN at later stages of the project.
 
 #### Conference presentations
-For a full list of my presentations at relevant conferences, please refer to my [CV](https://linneawolniewicz.github.io/resources/linnea_wolniewicz_cv.pdf). 
+For a full list of my presentations at relevant conferences, please refer to my [CV](https://linneawolniewicz.github.io/resources/Curriculum_Vitae_Linnea_Wolniewicz.pdf).
 
 ### Other evidence of professional capacity
-Additional information on my relevant work history, leadership, and outreach activities is included on my [CV](https://linneawolniewicz.github.io/resources/linnea_wolniewicz_cv.pdf). Some of these are also listed under my [projects](https://linneawolniewicz.github.io/#projects) and [outreach](https://linneawolniewicz.github.io/#outreach) sections on my homepage.
+Additional information on my relevant work history, leadership, and outreach activities is included on my [CV](https://linneawolniewicz.github.io/resources/Curriculum_Vitae_Linnea_Wolniewicz.pdf). Some of these are also listed under my [projects](https://linneawolniewicz.github.io/#projects) and [outreach](https://linneawolniewicz.github.io/#outreach) sections on my homepage.
 

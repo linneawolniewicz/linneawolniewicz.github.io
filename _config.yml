@@ -25,6 +25,8 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
+  - resources/cv-source
+  - resources/resume-source
 include:
   - .nojekyll
   - _data

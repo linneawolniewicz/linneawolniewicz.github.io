@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Linnea M. Wolniewicz",
-    "label": "I am passionate about using machine learning to understand the universe around us. Computer Science Ph.D. Student at the University of Hawaiʻi at Mānoa.",
+    "label": "I am passionate about using machine learning to understand the universe around us. Computer Science Ph.D. Candidate at the University of Hawaiʻi at Mānoa.",
     "picture": "https://github.com/linneawolniewicz.png",
     "phone": "+1(720)442-2341",
     "website": "https://linneawolniewicz.github.io",
-    "summary": "",
+    "summary": "I advanced to Ph.D. candidacy in June 2026. My recent internships at NVIDIA (PhysicsNeMo / Earth-2) and NASA Jet Propulsion Laboratory focused on generative weather modeling and machine learning for ionospheric forecasting.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "linneawolniewicz", "url": "http://github.com/linneawolniewicz" },
